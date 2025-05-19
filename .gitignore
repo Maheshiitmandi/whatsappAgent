@@ -1,5 +1,9 @@
-node_modules/*
-whatsapp-dashboard-server/node_modules/*
-server_old/
-client_old/
+node_modules
+# whatsapp-dashboard-server/node_modules
+# server_old/
+# client_old/
 
+# whatsapp-dashboard-server/bot/.*/*
+whatsapp-dashboard-server/bot/.wwebjs_cache/**
+whatsapp-dashboard-server/bot/.wwebjs_auth/**
+# node_modules
