@@ -1,0 +1,5 @@
+node_modules/*
+whatsapp-dashboard-server/node_modules/*
+server_old/
+client_old/
+

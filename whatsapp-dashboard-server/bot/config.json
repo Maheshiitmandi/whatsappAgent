@@ -1,0 +1,8 @@
+{
+    "recipientsFile": "recipients.csv",
+    "responsesFile": "responses.csv",
+    "messageFile": "message.txt",
+    "mediaFile": "media.png",
+    "debounceMs": 3000
+  }
+  
