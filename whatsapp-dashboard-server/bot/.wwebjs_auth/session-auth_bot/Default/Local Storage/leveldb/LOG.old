@@ -1,6 +1,0 @@
-2025/05/15-17:32:21.402 8803 Reusing MANIFEST /Users/rooter/Documents/mahesh_repo/whatsappAgent/whatsapp-dashboard-server/bot/.wwebjs_auth/session-auth_bot/Default/Local Storage/leveldb/MANIFEST-000001
-2025/05/15-17:32:21.403 8803 Recovering log #184
-2025/05/15-17:32:21.403 8803 Reusing old log /Users/rooter/Documents/mahesh_repo/whatsappAgent/whatsapp-dashboard-server/bot/.wwebjs_auth/session-auth_bot/Default/Local Storage/leveldb/000184.log 
-2025/05/15-17:33:22.242 8803 Level-0 table #188: started
-2025/05/15-17:33:22.249 8803 Level-0 table #188: 13640 bytes OK
-2025/05/15-17:33:22.259 8803 Delete type=0 #184
