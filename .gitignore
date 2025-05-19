@@ -7,3 +7,13 @@ node_modules
 whatsapp-dashboard-server/bot/.wwebjs_cache/**
 whatsapp-dashboard-server/bot/.wwebjs_auth/**
 # node_modules
+the-real-index
+
+# Ignore LevelDB and other local storage files
+*.ldb
+*.log
+
+# Ignore browser session storage and cache files
+**/Service Worker/**
+**/CacheStorage/**
+**/Local Storage/**
